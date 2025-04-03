@@ -17,8 +17,8 @@ Along the way, I also build and fine-tune algorithmic trading strategies using P
 ## 🤝 Let's Connect!
 Feel free to reach out to discuss ideas, collaborate on interesting projects, or just connect over shared interests and have a chat!
 
-[![EMail](https://img.shields.io/badge/EMail-Email-red)](mailto:MostafaRoohy@protonmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mostafaroohy)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue)](https://t.me/MostafaRoohy)
-[![Telegram Channel](https://img.shields.io/badge/Channel-BrainyAlgo-lightblue)](https://t.me/BrainyAlgo)
+[![EMail](https://img.shields.io/badge/EMail-white)](mailto:MostafaRoohy@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/mostafaroohy)
+[![Telegram](https://img.shields.io/badge/Telegram-skyblue)](https://t.me/MostafaRoohy)
+[![Telegram Channel](https://img.shields.io/badge/BrainyAlgo-lightblue)](https://t.me/BrainyAlgo)
 
