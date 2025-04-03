@@ -15,7 +15,7 @@ Specializing in creating and optimizing trading strategies with Python, MQL5, an
 ## 🚀 Let's Connect!
 Feel free to reach out to discuss ideas, collaborate on interesting projects, or just connect over shared interests!
 
-[![EMail](https://img.shields.io/badge/EMail-Email-red)](MostafaRoohy@protonmail.com)
+[![EMail](https://img.shields.io/badge/EMail-Email-red)](mailto:MostafaRoohy@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mostafaroohy)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue)](https://t.me/MostafaRoohy)
 [![Telegram Channel](https://img.shields.io/badge/Channel-BrainyAlgo-lightblue)](https://t.me/BrainyAlgo)
