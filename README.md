@@ -1,19 +1,21 @@
 # Hi there! 👋 I'm Mostafa
 
 ### 🤖 📈 Machine Learning Professional & Algorithmic Trader
-Specializing in creating and optimizing trading strategies with Python, MQL5, and Pine Script. Passionate about turning data into actionable insights.
+I'm a machine learning professional who loves solving real-world problems—especially in the world of finance. I focus on building practical ML solutions with predictive modeling, time series forecasting, and classification/regression.
+
+Along the way, I also build and fine-tune algorithmic trading strategies using Python and MQL5. I developed deep experience converting strategies and code between Python, MQL5, and Pine Script, helping bridge the gap across platforms and tools.
 
 ---
 
 ## 🛠️ Technologies & Skills:
-- **Programming:** Python | MQL5 | Pine Script  
+- **Programming:** Python | MQL5 | Pine Script | C++
 - **Machine Learning:** Predictive modeling | Classification | Regression | Time Series Analysis
-- **Algorithmic Trading:** Strategy development | Backtesting | Optimization | MQL5 Pine Python Conversion
+- **Algorithmic Trading:** Strategy development | Backtesting | Optimization | MQL5, Pine, Python Conversion
 
 ---
 
 ## 🤝 Let's Connect!
-Feel free to reach out to discuss ideas, collaborate on interesting projects, or just connect over shared interests!
+Feel free to reach out to discuss ideas, collaborate on interesting projects, or just connect over shared interests and have a chat!
 
 [![EMail](https://img.shields.io/badge/EMail-Email-red)](mailto:MostafaRoohy@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mostafaroohy)
