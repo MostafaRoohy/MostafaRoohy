@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Mostafa
 
-### 📈 Machine Learning Professional & Algorithmic Trader
+### 🤖 📈 Machine Learning Professional & Algorithmic Trader
 Specializing in creating and optimizing trading strategies with Python, MQL5, and Pine Script. Passionate about turning data into actionable insights.
 
 ---
@@ -12,7 +12,7 @@ Specializing in creating and optimizing trading strategies with Python, MQL5, an
 
 ---
 
-## 🚀 Let's Connect!
+## 🤝 Let's Connect!
 Feel free to reach out to discuss ideas, collaborate on interesting projects, or just connect over shared interests!
 
 [![EMail](https://img.shields.io/badge/EMail-Email-red)](mailto:MostafaRoohy@protonmail.com)
