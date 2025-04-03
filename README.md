@@ -5,6 +5,8 @@ I'm a machine learning professional who loves solving real-world problems—espe
 
 Along the way, I also build and fine-tune algorithmic trading strategies using Python and MQL5. I developed deep experience converting strategies and code between Python, MQL5, and Pine Script, helping bridge the gap across platforms and tools.
 
+🙃 Yes! My python code style is customized. I don't like pep8.
+
 ---
 
 ## 🛠️ Technologies & Skills:
